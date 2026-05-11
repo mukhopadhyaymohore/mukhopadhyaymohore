@@ -1,1 +1,1 @@
-Web Development | Machine Learning | Quantum Computation | Hardware (ESP32)
+Web Development | Machine Learning | Deep Learning | Quantum Computation | Hardware (ESP32)
